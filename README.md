@@ -47,9 +47,6 @@ Here are a few projects:
 SPECTRE_RAT https://github.com/AnonMoon64/SPECTRE_RAT
 
 
-Check out my repositories for more!
-📊 GitHub Stats
-
 Feel free to open an issue or star a repo if you like my work! 🚀
 
 Crafting the future, one line of code at a time 💾
