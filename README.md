@@ -68,8 +68,6 @@ Here are some of the projects I'm most excited about:
 
 - **[SPECTRE_RAT](https://github.com/AnonMoon64/SPECTRE_RAT)** — A custom Remote Access Tool built for learning and experimentation in networking, security, and system programming.
 
-*(Add 2–4 more projects here with short 1-line descriptions and links. If you have screenshots or GIFs, include them!)*
-
 **Want to see more?** Check out my repositories below 👇
 
 ---
