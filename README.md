@@ -9,7 +9,7 @@
 <div align="center">
   <h2>🚀 Welcome to my corner of GitHub</h2>
   
-  I'm **Atom** (also known as anonmoon or Atomic Cobra), a passionate developer and tech tinkerer who loves turning ideas into reality. 
+  I'm **Atom** (also known as anonmoon or Atomic Cobra). 
   
   I build in **AI/ML**, **robotics**, **automation**, and **low-level systems**. Whether it's training neural nets, wiring up robots with ROS, or crafting efficient tools in Go and Python — I'm always experimenting with curiosity (and plenty of ☕).
 </div>
