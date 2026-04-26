@@ -93,28 +93,9 @@ I'm always open to interesting conversations, collaborations, or feedback on my 
 
 - 💬 Open an issue on any repo if you have questions
 - ⭐ Star a project if you find it useful
-- 📫 Reach out: (add your email, Twitter/X, LinkedIn, or Discord here)
 
 ---
 
 **Crafting the future, one line of code (and one cup of coffee) at a time** 💾☕
 
 ---
-
-### Quick Tips for Using This README
-
-1. **Replace placeholders**:
-   - Change `AnonMoon64` to your actual GitHub username in the stats URLs.
-   - Add your real social/contact links.
-   - Expand the **Featured Projects** section with more repos + short descriptions (or screenshots).
-
-2. **Make it even better** (optional advanced touches):
-   - Add a profile picture or banner at the top.
-   - Use a visitor counter: `![Visitors](https://komarev.com/ghpvc/?username=AnonMoon64&color=00C3FF)`
-   - Add a "Currently Learning" or "Next Up" section if you want.
-
-3. **Preview it**:
-   - Create a repo named exactly your username (e.g., `AnonMoon64`) if you haven't already.
-   - Paste this into `README.md` and commit.
-
-Would you like me to make a **more minimal/clean** version, a **darker/cyberpunk** aesthetic, add specific project cards, or include more dynamic elements (like latest blog posts if you have any)? Just tell me your preferences or share more details about other projects! 🚀
